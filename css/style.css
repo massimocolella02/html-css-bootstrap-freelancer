@@ -1,0 +1,18 @@
+
+header{
+    background-color: #2C3E50 !important;
+}
+.navbar-collapse{
+    flex-grow: 0;
+}
+.nav-link,
+.navbar-brand{
+    color: white !important;
+}
+.navbar-toggler{
+    border-color: white;
+}
+#intro{
+    background-color: #1ABC9C;
+    color: white;
+}
