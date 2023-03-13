@@ -1,7 +1,4 @@
 
-header{
-    background-color: #2C3E50 !important;
-}
 .navbar-collapse{
     flex-grow: 0;
 }
@@ -12,7 +9,23 @@ header{
 .navbar-toggler{
     border-color: white;
 }
-#intro{
+#intro,
+#about-us{
     background-color: #1ABC9C;
     color: white;
+}
+.star hr{
+    width: 20%;
+    display: inline-block;
+    vertical-align: middle;
+    border: 1px solid;
+    opacity: 1;
+}
+#cards{
+    color: #333333;
+}
+
+#about-us .container,
+#contact-me .container{
+    max-width: 80%;
 }
